@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1082318991562",
+    "project_id": "gate-habit-builder",
+    "storage_bucket": "gate-habit-builder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082318991562:android:27d823ff45f3416b834433",
+        "android_client_info": {
+          "package_name": "com.master.gate_habitbuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082318991562-f8j1t75rft9hkkg6d6ci5r7drnu5d73j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.master.gate_habitbuilder",
+            "certificate_hash": "7768eda00bc7b9cf1eb1943a1b4e72fc962288cd"
+          }
+        },
+        {
+          "client_id": "1082318991562-i6gvgj8sdercp9fb6uk8lrkm7hj0mq7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5ffZrAPr0VprHn4k76RautINADfaMh0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082318991562-i6gvgj8sdercp9fb6uk8lrkm7hj0mq7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

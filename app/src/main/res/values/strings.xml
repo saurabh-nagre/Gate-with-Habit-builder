@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gate - with Habit Builder</string>
+    <string name="signin">Sign in</string>
+    <string name="createaccount">Create Account</string>
+    <string name="enteremail">Enter Your Email here</string>
+    <string name="startpreparingtoday">Start Preparing Today!</string>
+    <string name="enterpassword">Enter Your Password</string>
+    <string name="submit">Submit</string>
+    <string name="or">Or</string>
+    <string name="skip">Skip</string>
+    <string name="welcome">welcome</string>
+    <string name="passwordConstraint">*Password should contain atleast 8 characters</string>
+    <string name="gso">Sign in with Google</string>
+    <string name="signout">Sign out</string>
+    <string name="enterusername">Enter Username</string>
+    <string name="forgotpassword">Forgot Password?</string>
+</resources>
